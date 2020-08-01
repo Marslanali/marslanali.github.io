@@ -2,7 +2,7 @@
 
 I'm Arslan Ali working mainly in C++ & Linux. I Design, build, and maintain efficient, reusable, and reliable C++ codes.
 
-- 💬 Feel free to reach me at marslanali800@gmail.com for work-related inquiries.
+💬 Feel free to reach me at marslanali800@gmail.com for work-related inquiries.
 
 <!--
 **Marslanali/marslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
