@@ -5,6 +5,8 @@ I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain effi
 
 💬 Feel free to reach me at marslanali800@gmail.com for work-related inquiries.
 
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 <!--
 **Marslanali/marslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
