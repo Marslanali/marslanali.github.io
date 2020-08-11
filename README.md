@@ -4,7 +4,6 @@ I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain effi
 
 💬 Feel free to reach me at marslanali800@gmail.com for work-related inquiries.
 
-
 <code><img height="40" src="https://github.com/Marslanali/marslanali/blob/master/img/cplusplus.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://github.com/Marslanali/marslanali/blob/master/img/python.png"></code>
@@ -14,7 +13,6 @@ I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain effi
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" width ="80" src="https://github.com/Marslanali/marslanali/blob/master/img/jira.png"></code>
-
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
