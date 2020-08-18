@@ -15,11 +15,6 @@ I'm Arslan Ali working mainly in C++ & Linux. I design, build, and maintain effi
 
 💬 Feel free to reach me for work-related inquiries.
 
-🌐 [m]()<br>
-💼 [linkedin]()<br>
-
-
-
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
