@@ -1,7 +1,7 @@
 # Site settings
 title: Arslan Ali
 description: A personal webpage of Arslan Ali
- baseurl: "marslanali" #/particle" # the subpath of your site, e.g. /blog
+baseurl: "marslanali" #/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
