@@ -1,0 +1,32 @@
+# Site settings
+title: Arslan Ali
+description: A personal webpage of Arslan Ali
+ baseurl: "marslanali" #/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Arslan Ali
+user_description1:
+
+user_description2:
+                  I have more than 2 years of hands-on experience with C/C++, Python development in on both Linux and Windows.
+                  I design, build, and maintain efficient, reusable, and reliable C/C++ and Python codes. I also have a strong
+                  passion for AI & Machine Learning.
+
+user_description3:
+                  In the past, I had been a Graduate Research Assistant at Bio Robotics Lab, Korea University of Technology and
+                  Education Cheonan, South Korea. I worked with C++ and Python development with Linux, Robot Operating
+                  System (ROS), and high performance physics engines for simulations such as gazebo. I also had worked
+                  with Unity, OpenGL, and windows Desktop Application development using C++ & MFC.
+
+user_title: Software Consultant
+email: marslanali800@gmail.com
+twitter_username: marslanali800
+github_username:  marslanali
+gplus_username:  marslanali800
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
