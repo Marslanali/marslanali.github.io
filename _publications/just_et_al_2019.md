@@ -41,4 +41,4 @@ with temporal and spatial variances, different initial and final
 conditions and partial executions. The proposed algorithm is
 tested and validated with three different experiments of a pegin-hole task conducted on 3-Degree of freedom (DOF) masterslave teleoperation system.
 
-[ADS Link](https://mediatum.ub.tum.de/doc/1364695/document.pdf)
+[Publication Link](https://mediatum.ub.tum.de/doc/1364695/document.pdf)

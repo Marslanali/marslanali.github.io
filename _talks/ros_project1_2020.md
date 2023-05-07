@@ -10,8 +10,3 @@ location: "Pakistan"
 ![image](../images/uav1.jpg)
 <sup>Swarm of UAV in Gazebo</sup>
 
-![image](../images/uav2.jpg)
-<sup>Swarm of UAV in Gazebo</sup>
-
-![image](../images/rov.jpg)
-<sup>Swarm of ROV in Gazebo</sup>
