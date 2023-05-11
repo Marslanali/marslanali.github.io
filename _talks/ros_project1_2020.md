@@ -28,3 +28,14 @@ The project develop simulation for Swarm of Unmanned Underwater Vehicles using R
      width="717px" height="403px"/>
 </div>
 ---
+
+### UAV Path Planning in Dynamic Environment with RRT and OCTOMAP.
+
+The project develop simulation for UAV Path Planning in Dynamic Environment with RRT and OCTOMAP using ROS and Gazebo.
+
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/uav-path-planning.gif" 
+     width="717px" height="403px"/>
+</div>
+
+---
