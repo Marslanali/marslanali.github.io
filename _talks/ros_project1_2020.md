@@ -24,7 +24,7 @@ This project configured and implemented Network Intelligence and Security Engine
 The project develop simulation for Swarm of Unmanned Underwater Vehicles using ROS and Gazebo.
 
 <div style="text-align: center">
-<img src="https://marslanali.github.io/talks/rov1.gif" 
+<img src="https://marslanali.github.io/talks/rov.gif" 
      width="717px" height="403px"/>
 </div>
 ---
