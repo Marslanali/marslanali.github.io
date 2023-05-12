@@ -19,6 +19,28 @@ This project configured and implemented Network Intelligence and Security Engine
 
 ---
 
+### Aggregation And Dispersion For Swarm of Mobile Robots Using ROS And Gazebo .
+
+The project implements Aggregation and Dispersion for swram of mobile robots.
+
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/aggregation.png" 
+     width="717px" height="403px"/>
+</div>
+
+---
+
+### UAV Path Planning in Dynamic Environment with Rapid Exploration Random Trees (RRT*) and OCTOMAP.
+
+The project develop simulation for UAV Path Planning in Dynamic Environment with Rapid Exploration Random Trees (RRT*) and OCTOMAP using ROS and Gazebo.
+
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/final_figure_uav_swarm.png" 
+     width="717px" height="403px"/>
+</div>
+
+---
+
 ### Design And Develop Simulations For Swarm of Unmanned Underwater Vehicles Using ROS And Gazebo.
 
 The project develop simulation for Swarm of Unmanned Underwater Vehicles using ROS and Gazebo.
@@ -29,13 +51,3 @@ The project develop simulation for Swarm of Unmanned Underwater Vehicles using R
 </div>
 ---
 
-### UAV Path Planning in Dynamic Environment with RRT and OCTOMAP.
-
-The project develop simulation for UAV Path Planning in Dynamic Environment with RRT and OCTOMAP using ROS and Gazebo.
-
-<div style="text-align: center">
-<img src="https://marslanali.github.io/talks/uav-path-planning.gif" 
-     width="717px" height="403px"/>
-</div>
-
----
