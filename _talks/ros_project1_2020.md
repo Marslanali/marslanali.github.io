@@ -95,5 +95,11 @@ tested and validated with three different experiments of a pegin-hole task condu
 This project develop simualtion for soft continuum growing robot in unity game engine. This project is done in collaboration with CHARM Lab Standford
 University, USA, and supported by the US Department of Defence and Republic of Korea’s Ministry of Trade, Industry, and Energy (MOTIE).
 
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/vine-robot-simulation.gif" 
+     width="717px" height="403px"/>
+</div>
+
+
 ---
 
