@@ -7,7 +7,7 @@ author_profile: true
 
 &nbsp;
 
-### [2021] Develop a Machine Learning Model (Random Forest) For Measuring Video Quality of Experience (QoE). 
+### [2021] Develop a Machine Learning Model (Random Forest) For Measuring Video Quality of Experience (QoE) in Encrypted Traffic. 
 
 This project addresses the challenges of estimating the Quality of Experience (QoE) in encrypted traffic. Popular video providers such as YouTube, Netflix, Amazon Prime, Disney, and Vimeo have mostly encrypted video traffic and this poses additional challenges for the network operator to perform essentials tasks to inspect compressor balance traffic. We address the aforementioned problem using a machine learning model that predicts video QoE from encrypted traffic. We have selected a random forest classifier and trained model in python using the scikit-learn. The learned model is imported in C++ using the python scikit-learn porter library. The proposed machine learning models in C++ were able to identify quality issues from encrypted data with an accuracy of 90.5% for a range of encrypted video services with real-time traffic. 
 
