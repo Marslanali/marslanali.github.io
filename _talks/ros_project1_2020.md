@@ -30,7 +30,7 @@ The project implements Aggregation and Dispersion for swram of mobile robots.
 
 ---
 
-### UAV Path Planning in Dynamic Environment with Rapid Exploration Random Trees (RRT*) and OCTOMAP.
+### Unmanned Aerial Vehicle (UAV) Path Planning in Dynamic Environment with Rapid Exploration Random Trees (RRT*) and OCTOMAP.
 
 The project develop simulation for UAV Path Planning in Dynamic Environment with Rapid Exploration Random Trees (RRT*) and OCTOMAP using ROS and Gazebo.
 
@@ -41,17 +41,8 @@ The project develop simulation for UAV Path Planning in Dynamic Environment with
 
 ---
 
-### Design And Develop Simulations For Swarm of Unmanned Underwater Vehicles Using ROS And Gazebo.
 
-The project develop simulation for Swarm of Unmanned Underwater Vehicles using ROS and Gazebo.
-
-<div style="text-align: center">
-<img src="https://marslanali.github.io/talks/rov.gif" 
-     width="717px" height="403px"/>
-</div>
----
-
-### Simulations For ORB SLAM On Unmanned Aerial Vehicle Using ROS And Gazebo.
+### Simulations For ORB SLAM On Unmanned Aerial Vehicle (UAV) Using ROS And Gazebo.
 
 The project develop simulations for ORB SLAM on Unmanned Aerial Vehicle using ROS and Gazebo.
 
@@ -59,5 +50,50 @@ The project develop simulations for ORB SLAM on Unmanned Aerial Vehicle using RO
 <img src="https://marslanali.github.io/talks/ORB-SLAM.gif" 
      width="717px" height="403px"/>
 </div>
+---
+
+
+### Design And Develop Simulations For Swarm of Unmanned Underwater Vehicles Using ROS And Gazebo.
+
+The project develop simulation for Swarm of ROV using ROS and Gazebo.
+
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/rov.gif" 
+     width="717px" height="403px"/>
+</div>
+---
+
+
+### Novel Learning from Demonstration Approach For Repetitive Teleoperation Tasks . [[Publication Link](https://mediatum.ub.tum.de/doc/1364695/document.pdf)]
+
+The project is funded by the German Research Foundation (DFG) and the Industrial Strategic Technology Development Program (10069072) MOTIE, South Korea.
+Done in Collaboration with Human Assistive Robotics Group at TUM, Germany, published in 2017 IEEE World Haptics Conference Munich, Germany, and ranked top 10%..
+
+Abstract:
+While teleoperation provides a possibility for a
+robot to operate at extreme conditions instead of a human,
+teleoperating a robot still demands a heavy mental workload
+from a human operator. Learning from demonstrations can
+reduce the human operator’s burden by learning repetitive
+teleoperation tasks. However, one of challenging issues is that
+demonstrations via teleoperation are less consistent compared
+to other modalities of human demonstrations. In order to
+solve this problem, we propose a learning scheme based on
+Dynamic Movement Primitives (DMPs) which can handle less
+consistent, asynchronized and incomplete demonstrations. In
+particular we proposed a new Expectation Maximization (EM)
+algorithm which can synchronize and encode demonstrations
+with temporal and spatial variances, different initial and final
+conditions and partial executions. The proposed algorithm is
+tested and validated with three different experiments of a pegin-hole task conducted on 3-Degree of freedom (DOF) masterslave teleoperation system.
+
+---
+
+
+### Soft continuum growing robot simulation in a virtual environment . 
+
+This project develop simualtion for soft continuum growing robot in unity game engine. This project is done in collaboration with CHARM Lab Standford
+University, USA, and supported by the US Department of Defence and Republic of Korea’s Ministry of Trade, Industry, and Energy (MOTIE).
+
 ---
 
