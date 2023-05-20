@@ -60,6 +60,16 @@ The project develop simulations for ORB SLAM on Unmanned Aerial Vehicle using RO
 </div>
 ---
 
+### [2020] Simulations For Swarm of Unmanned Aerial Vehicle (UAV) Using ROS And Gazebo.
+
+The project develop Simulations For swarm of Unmanned Aerial Vehicle (UAV) Using ROS And Gazebo.
+
+<div style="text-align: center">
+<img src="https://marslanali.github.io/talks/firefly-swarm.gif" 
+     width="717px" height="403px"/>
+</div>
+---
+
 
 ### [2020] Design And Develop Simulations For Swarm of Unmanned Underwater Vehicles Using ROS And Gazebo.
 
