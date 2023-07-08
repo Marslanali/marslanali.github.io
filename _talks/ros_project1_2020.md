@@ -10,7 +10,7 @@ author_profile: true
 
 ### [2021] Develop a Machine Learning Model (Random Forest) For Measuring Video Quality of Experience (QoE) in Encrypted Traffic. 
 
-This project addresses the challenges of estimating the Quality of Experience (QoE) in encrypted traffic. Popular video providers such as YouTube, Netflix, Amazon Prime, Disney, and Vimeo have mostly encrypted video traffic and this poses additional challenges for the network operator to perform essentials tasks to inspect compressor balance traffic. We address the aforementioned problem using a machine learning model that predicts video QoE from encrypted traffic. We have selected a random forest classifier and trained model in python using the scikit-learn. The learned model is imported in C++ using the python scikit-learn porter library. The proposed machine learning models in C++ were able to identify quality issues from encrypted data with an accuracy of 90.5% for a range of encrypted video services with real-time traffic. 
+This project addresses the challenges of estimating the Quality of Experience (QoE) in encrypted traffic. Popular video providers such as YouTube, Netflix, Amazon Prime, Disney, and Vimeo have mostly encrypted video traffic, which poses additional challenges for the network operator to perform essential tasks to inspect compressor balance traffic. We address the aforementioned problem using a machine-learning model that predicts video QoE from encrypted traffic. We have selected a random forest classifier and trained the model in Python using the scikit-learn library. The learned model is imported in C++ using the Python scikit-learn porter library. The proposed machine learning model in C++ was able to identify quality issues from encrypted data with an accuracy of 90.5% for a range of encrypted video services with real-time traffic.
 
 **Technologies**: C++, CMake, Python, SckitLearn, Linux 
 
@@ -18,7 +18,7 @@ This project addresses the challenges of estimating the Quality of Experience (Q
 
 ### [2021] Analyze and Develop Network Intelligence and Security Engine (NISE) Validation Modules in C++ and Linux.
 
-This project configured and implemented Network Intelligence and Security Engine (NISE) APIs in Linux with C++, serialize and deserialize them using google protocol buffers. Writing manual Unit Test cases for NISE APIs using Google Test framework and prepare documentation with MarkDown Language
+This project configured and implemented Network Intelligence and Security Engine (NISE) APIs in Linux with C++, serialized and deserialized them using Google protocol buffers. Writing manual Unit Test cases for NISE APIs using Google Test framework and preparing documentation with MarkDown Language.
 
 **Technologies**: C++, CMake, Gtest, Linux, protobuf, Valgrind 
 
